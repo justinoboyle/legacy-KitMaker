@@ -1,0 +1,7 @@
+name: KitMaker
+version: 1.0
+main: com.justinoboyle.kitmaker.main.KitMaker
+author: Justin O'Boyle
+commands:
+    kitmaker: 
+    kit: 
